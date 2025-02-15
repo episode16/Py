@@ -193,7 +193,7 @@ class Links:
                 os.makedirs(self.cache_dir)
             return os.path.join(self.cache_dir, safe_name + ".html")
 
-        cache_path = _cache_file_path(url)
+        cache_path = _cache_file_path(url) 
 
         try:
             # Пытаемся сначала прочитать из кэша, если файл существует
