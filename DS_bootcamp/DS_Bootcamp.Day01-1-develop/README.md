@@ -24,7 +24,7 @@ of Python.
 8. [Chapter VIII](#chapter-viii) \
     8.1. [Exercise 04 : Dictionaries](#exercise-04-dictionaries)
 9. [Chapter IX](#chapter-ix) \
-    9.1. [Exercise 05 : Search by value or by key](#exercise-05-search-by-value-or-by-key)
+    9.1. [Exercise 05 : Search by value or by key](#exercise-05-search-by-value-or-by-key) 
 10. [Chapter X](#chapter-x) \
     10.1. [Exercise 06 : Sorting a dictionary](#exercise-06-sorting-a-dictionary)
 11. [Chapter XI](#chapter-xi) \
