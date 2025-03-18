@@ -11,7 +11,7 @@ You can find all the source code for the above projects inside the `src` folder.
 ### 1. *DS_bootcamp*
    - **Description:** A project to analyze data using different techniques and machine learning methods (*School 21*). 
    - **Status:** Active development
-   - **Under study:** Pandas, Matplotlib, Seaborn, Plotly, Machine Learning
+   - **Under study:** Machine Learning (Logistic regression, linear regression)
 
 ### 2. *WeatherApp*
    - **Description:** A weather forecasting app that fetches data from a weather API and presents it to the user.
