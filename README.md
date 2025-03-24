@@ -8,20 +8,25 @@ You can find all the source code for the above projects inside the `src` folder.
 
 ## Projects
 
-### 1. *DS_bootcamp*
+### 1. *DLS_mipt*
+   - **Description:** A projects on ML, DL and CV (*Deep Learning School (MIPT)*). 
+   - **Status:** Active development
+   - **Under study:** Linear machine learning models
+
+### 2. *DS_bootcamp*
    - **Description:** A project to analyze data using different techniques and machine learning methods (*School 21*). 
    - **Status:** Active development
    - **Under study:** Machine Learning (Logistic regression, linear regression)
 
-### 2. *WeatherApp*
+### 3. *WeatherApp*
    - **Description:** A weather forecasting app that fetches data from a weather API and presents it to the user.
    - **Status:** Draft (still under development)
 
-### 3. *Wgs_to_Msk*
+### 4. *Wgs_to_Msk*
    - **Description:** A geographical project for converting coordinates from WGS format to Moscow coordinate system (MSK).
    - **Status:** Final (ready for deployment)
 
-### 4. *django_project1*
+### 5. *django_project1*
    - **Description:** A basic Django web application project, focused on CRUD operations and simple authentication.
    - **Status:** Changes made, currently under review
 
